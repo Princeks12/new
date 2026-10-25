@@ -8,6 +8,7 @@ function App() {
       <h1>prince</h1>
       <h1>kumar</h1>
       <h3>branch princekum</h3>
+      <h2>branch princekum</h2>
     </div>
   )
 }
